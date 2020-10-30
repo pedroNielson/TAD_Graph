@@ -5,13 +5,15 @@
 <br>
 -> O arquivo .txt segue o seguinte padrao: 
 <br>
-- Primeira linha é o numero de vértices do grafo
-- As proximas linhas representam a matriz do grafo
+    -Primeira linha é o numero de vértices do grafo
+    <br>
+    -As proximas linhas representam a matriz do grafo
 <br>
 <br>
 <br>
 ->  Um grafo G(V,A) é definido pelo par de conjuntos V e A, onde:
 <br>
-- V - conjunto não vazio: os vértices ou nodos do grafo;
-- A - conjunto de pares ordenados a=(v,w), v e w ∈ V: as arestas do grafo.
+    - V - conjunto não vazio: os vértices ou nodos do grafo;
+    <br>
+    - A - conjunto de pares ordenados a=(v,w), v e w ∈ V: as arestas do grafo.
 <br>
